@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>pic/icon/1.png</file>
+        <file>pic/icon/next.png</file>
+        <file>pic/icon/pause.png</file>
+        <file>pic/icon/play.png</file>
+        <file>pic/icon/play_cycle.png</file>
+        <file>pic/icon/play_random.png</file>
+        <file>pic/icon/play_single.png</file>
+        <file>pic/icon/prev.png</file>
+        <file>pic/icon/skin.png</file>
+        <file>pic/icon/volume.png</file>
+    </qresource>
+    <qresource prefix="/back">
+        <file>pic/back/back1.jpeg</file>
+        <file>pic/back/back2.jpg</file>
+    </qresource>
+</RCC>
